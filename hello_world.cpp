@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
 
-int main()
+int
+main()
 {
 stirng name;
 std:cout << "Enter name : " << std::endl; //show text.
@@ -10,4 +11,3 @@ std::cout << "hello world " << name << std::endl; //result.
 }
 
 EOF
-
