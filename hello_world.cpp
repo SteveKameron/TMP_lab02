@@ -1,13 +1,14 @@
 #include <iostream>
 #include <string>
 
-int main()
+int
+main()
 {
-stirng name;
-std:cout << "Enter name : " << std::endl; //show text
-std::cin >> name; //enter name
-std::cout << "hello world " << name << std::endl; //result
+  stirng name;
+std:
+  cout << "Enter name : " << std::endl;             // show text
+  std::cin >> name;                                 // enter name
+  std::cout << "hello world " << name << std::endl; // result
 }
 
 EOF
-
