@@ -1,10 +1,13 @@
 #include <iostream>
 #include <string>
-using namespace std;
+
 int main()
 {
-string name;
-cout << "Enter name: " << endl;
-cin >> name;
-cout << "hello world " << name << endl;
+stirng name;
+std:cout << "Enter name : " << std::endl; //show text
+std::cin >> name; //enter name
+std::cout << "hello world " << name << std::endl; //result
 }
+
+EOF
+
